@@ -1,0 +1,9 @@
+[submodule "docker-chef-server"]
+	path = docker-chef-server
+	url = https://github.com/3ofcoins/docker-chef-server.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/kubernetes/kubernetes.git
+[submodule "chef-server-2"]
+	path = chef-server-2
+	url = https://github.com/c-buisson/chef-server.git
